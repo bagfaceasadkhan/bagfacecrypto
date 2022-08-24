@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/bagfacecrypto/static/js/main.847638f1.js",
+    "main.js": "/bagfacecrypto/static/js/main.de005282.js",
     "index.html": "/bagfacecrypto/index.html",
-    "main.847638f1.js.map": "/bagfacecrypto/static/js/main.847638f1.js.map"
+    "main.de005282.js.map": "/bagfacecrypto/static/js/main.de005282.js.map"
   },
   "entrypoints": [
-    "static/js/main.847638f1.js"
+    "static/js/main.de005282.js"
   ]
 }
